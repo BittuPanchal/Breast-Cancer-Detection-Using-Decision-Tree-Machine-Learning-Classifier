@@ -26,3 +26,12 @@ To understand this problem more precisely, tools are needed to help oncologists 
 
 # Confusion matrix
 ![Screenshot 2022-10-21 132339](https://user-images.githubusercontent.com/115232340/197143381-c9a2d941-0952-47b8-ba8c-243ebc399bda.png)
+
+# Conclusion-
+To get more accuracy, we trained all supervised classification algorithms but you can try out a few of them which are always popular. After training all algorithms, we found that Logistic Regression, Random Forest and XGBoost classifiers are given high accuracy than remain but we have chosen XGBoost.
+
+As ML Engineer, we always retrain the deployed model after some period of time to sustain the accuracy of the model. We hope our efforts will save the life of breast cancer patients.
+
+Please share your feedback and doubt regarding this ML project, so we can update it.
+
+I hope you enjoy the Machine Learning End to End project. Thank you….. -:)
