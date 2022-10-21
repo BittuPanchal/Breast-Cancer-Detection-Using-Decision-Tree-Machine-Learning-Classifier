@@ -17,3 +17,12 @@ To understand this problem more precisely, tools are needed to help oncologists 
 5. Define dependent and independent variables
 6. Spilit training and testing dataset
 7. Prediction
+
+# Pairplot according to diagnosis-
+![Screenshot 2022-10-21 132211](https://user-images.githubusercontent.com/115232340/197143333-e39283a6-6caf-41c7-943f-38040cea2f24.png)
+
+# Heatmap diagram based on the correlation of attributes each other-
+![Screenshot 2022-10-21 132258](https://user-images.githubusercontent.com/115232340/197143363-1b270ab6-59fe-451f-88ea-ffe38a881389.png)
+
+# Confusion matrix
+![Screenshot 2022-10-21 132339](https://user-images.githubusercontent.com/115232340/197143381-c9a2d941-0952-47b8-ba8c-243ebc399bda.png)
