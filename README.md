@@ -8,3 +8,12 @@ To understand this problem more precisely, tools are needed to help oncologists 
 
 
 ![mal_ben](https://user-images.githubusercontent.com/115232340/197141599-90d11106-2768-4782-8dd2-a1a918642ede.png)
+
+# STEPS-
+1. import Libraries
+2. import dataset
+3. Data Preprocessing
+4. Data Visualization
+5. Define dependent and independent variables
+6. Spilit training and testing dataset
+7. Prediction
